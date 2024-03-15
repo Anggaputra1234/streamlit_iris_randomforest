@@ -2,5 +2,6 @@ numpy==1.26.4
 pandas==2.2.0
 straeamlit==0.88.0
 scikit-learn
+sklearn
 pip==24.0 
 load_iris
