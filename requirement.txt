@@ -1,9 +1,7 @@
 numpy==1.26.4
 pandas==2.2.0
-straeamlit==0.88.0
+straeamlit
 scikit-learn
-sklearn
 pip==24.0 
-load_iris
-pip install scikit-learn
+
 
