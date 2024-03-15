@@ -5,3 +5,5 @@ scikit-learn
 sklearn
 pip==24.0 
 load_iris
+pip install scikit-learn
+
